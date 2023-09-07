@@ -1,8 +1,16 @@
 # Política de Privacidad para My Drink
 
-### Fecha de última actualización: 04/09/2023
+### Fecha de última actualización: 07/09/2023
 
 Esta Política de Privacidad describe cómo la aplicación My Drink recopila, utiliza y protege la información personal que pueda proporcionar mientras utiliza nuestra aplicación. Su privacidad es importante para nosotros, y estamos comprometidos a protegerla. Al utilizar esta aplicación, usted acepta los términos de esta Política de Privacidad.
+
+## Anuncios
+
+Nuestra aplicación puede mostrar anuncios de terceros para generar ingresos. Estos anuncios pueden recopilar datos no personales, como la ubicación geográfica aproximada, el tipo de dispositivo o el comportamiento de navegación. Estos datos se utilizan únicamente con fines de personalización de anuncios y no se comparten con terceros para identificarlo de manera personal.
+
+## Compras en la Tienda de Aplicaciones
+
+La aplicación ofrece la opción de realizar compras dentro de la tienda de aplicaciones. Toda la información financiera y de pago proporcionada durante estas transacciones se gestiona de manera segura por la tienda de aplicaciones correspondiente (por ejemplo, Apple App Store, Google Play Store) y no se almacena ni se procesa por parte de My Drink.
 
 ## Información que Recopilamos
 
