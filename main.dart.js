@@ -22043,7 +22043,7 @@ n=o.gac().c.ap(q)
 k=A.d1((n==null?j:r.a(J.bk(n.r.e,B.v))).gP0(),j,j,j,A.cK().$2$color$fontSize(B.jD,20),j,j)
 n=o.gac().c.ap(q)
 o=n==null?j:r.a(J.bk(n.r.e,B.v))
-i[p]=new A.a0W(new A.fG(j,a,new A.tb(B.dx,j,B.cC,B.a7,A.a([new A.vw(B.ab,j,j,A.ka(A.a([m,B.LY,l,B.fe,new A.fG(500,j,k,j),B.M_,A.aqA(j,new A.hL(j,j,j,B.aX,A.d1(o.gMP(o),j,j,j,A.cK().$3$color$fontSize$fontWeight(B.eW,27,B.bA),j,j),j),B.aS,!1,j,j,j,j,j,j,j,j,j,j,j,j,new A.aoh(),j,j,j),B.j5,A.hg(A.a([A.aqH(j,j,A.of("assets/images/social/email.png",j,j,j),40,new A.aoi(),j),B.DW,A.aqH(j,j,A.of("assets/images/social/linkedin-logo.png",j,j,j),40,new A.aoj(),j),B.DW,A.aqH(j,j,A.of("assets/images/social/github.png",j,j,j),40,new A.aok(),j)],s),B.a8,B.S)],s),B.aR,B.bn,B.jA),j)],s),j),j),new A.Fg(new A.Fx(A.of("assets/main.png",B.Fm,300,300),j),150,j))}return i},
+i[p]=new A.a0W(new A.fG(j,a,new A.tb(B.dx,j,B.cC,B.a7,A.a([new A.vw(B.ab,j,j,A.ka(A.a([m,B.LY,l,B.fe,new A.fG(500,j,k,j),B.M_,A.aqA(j,new A.hL(j,j,j,B.aX,A.d1(o.gMP(o),j,j,j,A.cK().$3$color$fontSize$fontWeight(B.eW,27,B.bA),j,j),j),B.aS,!1,j,j,j,j,j,j,j,j,j,j,j,j,new A.aoh(),j,j,j),B.j5,A.hg(A.a([A.aqH(j,j,A.of("assets/images/social/email.png",j,j,j),10,new A.aoi(),j),B.DW,A.aqH(j,j,A.of("assets/images/social/linkedin-logo.png",j,j,j),10,new A.aoj(),j),B.DW,A.aqH(j,j,A.of("assets/images/social/github.png",j,j,j),10,new A.aok(),j)],s),B.a8,B.S)],s),B.aR,B.bn,B.jA),j)],s),j),j),new A.Fg(new A.Fx(A.of("assets/main.png",B.Fm,300,300),j),150,j))}return i},
 aoh:function aoh(){},
 aoi:function aoi(){},
 aoj:function aoj(){},
